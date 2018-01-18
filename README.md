@@ -1,6 +1,8 @@
 
 # 理解Linux进程
 
+> 本开源书 forked from [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)，作者为 [tobegit3hub](https://github.com/tobegit3hub)，欢迎大家 star 原作者的 [repo](https://github.com/tobegit3hub/understand_linux_process)，以便获得最新更新，谢谢！
+
 ## 关于这本书
 
 本书受[*理解Unix进程*](http://www.duokan.com/book/41446)启发而作，用极简的篇幅深入学习进程知识。
